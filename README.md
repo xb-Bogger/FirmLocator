@@ -1,4 +1,4 @@
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16780216.svg)](https://doi.org/10.5281/zenodo.16780216) [![DOI](https://img.shields.io/github/license/NESA-Lab/FirmLocator.svg)](https://github.com/NESA-Lab/FirmLocator?tab=GPL-3.0-1-ov-file)
 
 # FirmLocator
 
@@ -90,7 +90,7 @@ If something wrong occurs when running `./configure`, please make sure these com
 
 ## Dataset 
 
-We prepare 3 testsuites as a demo in the `testsuites-demo.zip` file. You can download full dataset from [10.5281/zenodo.15623399](https://doi.org/10.5281/zenodo.15623399). 
+We prepare 3 testsuites as a demo in the `testsuites-demo.zip` file. You can download full dataset from [10.5281/zenodo.16780216](https://doi.org/10.5281/zenodo.16780216). 
 
 If you want to generate more testcases, you can prepare your files like this:
 

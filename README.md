@@ -1,6 +1,6 @@
 
 
-# FirmRCA
+# FirmLocator
 
 Embedded Firmware Root Cause Analysis.
 
